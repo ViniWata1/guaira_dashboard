@@ -1,1 +1,0 @@
-Repositório para análise de dados e deploy do dashboard.
